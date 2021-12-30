@@ -1,0 +1,6 @@
+{
+  "character": 1,
+  "color": [255,255,0],
+  "hp": 10,
+  "weapons": ["Gun", "Shotgun","Wall","Mine","Barrel"]
+}

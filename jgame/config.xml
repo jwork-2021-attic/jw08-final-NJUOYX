@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>jgame config file</comment>
+    <entry key="range_x">50</entry>
+    <entry key="range_y">50</entry>
+    <entry key="barrier">Barrier_50x50</entry>
+    <entry key="player">Brother</entry>
+    <entry key="player_num">2</entry>
+    <entry key="player0_x">20</entry>
+    <entry key="player0_y">20</entry>
+    <entry key="player1_x">5</entry>
+    <entry key="player1_y">5</entry>
+    <entry key="player2_x">30</entry>
+    <entry key="player2_y">30</entry>
+</properties>

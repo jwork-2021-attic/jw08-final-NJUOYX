@@ -1,0 +1,7 @@
+{
+  "character": 1,
+  "color": [255,0,0],
+  "hp":5,
+  "range": 40,
+  "weapons": ["Shotgun"]
+}
